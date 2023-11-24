@@ -1,0 +1,22 @@
+    A nossa Flora está em processo de inauguração e precisa que seja desenvolvido
+um sistema para cadastramento dos pedidos. Pedidos devem ser cadastrados por um
+vendedor que esteja registrado no sistema e necessariamente precisa haver o registro
+do cliente. É necessário manter alguns dados dos clientes, como CPF, nome, data de
+nascimento, endereço, UF e email. O pedido deve ter registrado a data que foi
+realizado, os itens, a quantidade de cada item, a forma de pagamento e informações de
+entrega, como a data de entrega, o valor do frete e o status, a UF de entrega é a
+mesma que foi cadastrada como UF do cliente. O sistema tambem deve registrar os
+vendedores com informações de CPF, nome, email, data de nascimento, salário e, não
+obrigatoriamente, endereço.
+
+    Os produtos da Flora devem estar cadastrados no sistema com informações como
+nome, preço, tipo (podem ser plantas ou insumos), valor. No caso das plantas, é preciso
+registrar a resistência à luminosidade e pode ser registrado também o tamanho. E, no
+caso dos insumos, deve ser possível registrar a data de validade, caso haja.
+
+    O sistema deverá gerar um catálogo só com os produtos do tipo planta disponíveis.
+Também deverá gerar relatórios gerenciais, como por exemplo informar produtos com
+prazos de validade vencidos, quantas entregas estão atrasadas, quais as formas de
+pagamentos mais lucrativas, média de idade de clientes por produto (a fim de conhecer
+melhor o público), produtos mais vendidos e vendedores que mais venderam, registrar
+atualizações ou alterações nos registros de clientes.
